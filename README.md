@@ -1,6 +1,6 @@
-https://wakatime.com/badge/user/fdf67fdb-a02c-465d-b1b5-c61be6ed35d4.svg
-### Hi there 👋
 
+### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/fdf67fdb-a02c-465d-b1b5-c61be6ed35d4.svg)](https://wakatime.com/@fdf67fdb-a02c-465d-b1b5-c61be6ed35d4)
 <!--
 **MarlonDevio/MarlonDevio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
