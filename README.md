@@ -1,3 +1,4 @@
+https://wakatime.com/badge/user/fdf67fdb-a02c-465d-b1b5-c61be6ed35d4.svg
 ### Hi there 👋
 
 <!--
