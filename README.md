@@ -1,17 +1,20 @@
 
 ### Hi there 👋
+
+### Programming stats since june 2023.
 [![wakatime](https://wakatime.com/badge/user/fdf67fdb-a02c-465d-b1b5-c61be6ed35d4.svg)](https://wakatime.com/@fdf67fdb-a02c-465d-b1b5-c61be6ed35d4)
-<!--
-**MarlonDevio/MarlonDevio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My full stats** are visible through this url: https://wakatime.com/@Amauri22
 
-Here are some ideas to get you started:
+🔭 I’m currently working on developing several applications in the fitness industry, leveraging my deep expertise in JavaScript, including React, as well as HTML5, CSS, Sass, Tailwind, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning more about Java and React. I am also focused on enhancing my skills in web application development, aiming to create efficient and user-friendly solutions.
+
+👯 I’m looking to collaborate on a wide range of innovative projects in web and app development, with a particular interest in applications involving machine learning and other cutting-edge technologies. My goal is to contribute to projects that make significant advancements in various fields!
+
+🤔 I’m looking for feedback on the code I write, having a mentor would be a dream come true. I'm determined to constantly improve and appreciate constructive insights that can help me refine my skills further.
+
+💬 Ask me about my journey from a Club Manager at a Fitnessclub and having a bachelor's degree in Businessmanagement to becoming a self-taught programmer who secured a position as a software engineer before pursuing my study in Applied Computer Sciences. I'm also open to discussing the transition from business management to applied computer science. I'm also keen on giving advice on personal development or whatever help you might need. I believe in the fact that being helpfull will make the world a lot nicer. :)
+
+📫 How to reach me: The best way to reach me is through my LinkedIn!
+
+⚡ Fun fact: Beyond programming, I am a passionate reader, dedicated to lifelong learning and personal development. Mindfulness practices are an integral part of my daily routine.
