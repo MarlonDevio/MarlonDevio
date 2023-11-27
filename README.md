@@ -1,5 +1,9 @@
 
-### Hi there 👋
+### Hi there 👋, I'm Marlon!
+
+Degrees: 
+- Professional Bachelor's Degree in Business Management, Finance and Insurance
+- Current study: Applied Computer Science, Application Development @ PXL University of Applied Sciences and Arts
 
 ### Programming stats since june 2023.
 [![wakatime](https://wakatime.com/badge/user/fdf67fdb-a02c-465d-b1b5-c61be6ed35d4.svg)](https://wakatime.com/@fdf67fdb-a02c-465d-b1b5-c61be6ed35d4)
