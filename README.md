@@ -9,6 +9,9 @@ Degrees:
 [![wakatime](https://wakatime.com/badge/user/fdf67fdb-a02c-465d-b1b5-c61be6ed35d4.svg)](https://wakatime.com/@fdf67fdb-a02c-465d-b1b5-c61be6ed35d4)
 **My full stats** are visible through this url: https://wakatime.com/@Amauri22
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 🔭 I’m currently working on developing several applications in the fitness industry, leveraging my deep expertise in JavaScript, including React, as well as HTML5, CSS, Sass, Tailwind, and Python.
 
 🌱 I’m currently learning more about Java and React. I am also focused on enhancing my skills in web application development, aiming to create efficient and user-friendly solutions.
