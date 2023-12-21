@@ -9,8 +9,7 @@ Degrees:
 [![wakatime](https://wakatime.com/badge/user/fdf67fdb-a02c-465d-b1b5-c61be6ed35d4.svg)](https://wakatime.com/@fdf67fdb-a02c-465d-b1b5-c61be6ed35d4)
 **My full stats** are visible through this url: https://wakatime.com/@Amauri22
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 🔭 I’m currently working on developing several applications in the fitness industry, leveraging my deep expertise in JavaScript, including React, as well as HTML5, CSS, Sass, Tailwind, and Python.
 
@@ -25,3 +24,6 @@ Degrees:
 📫 How to reach me: The best way to reach me is through my LinkedIn!
 
 ⚡ Fun fact: Beyond programming, I am a passionate reader, dedicated to lifelong learning and personal development. Mindfulness practices are an integral part of my daily routine.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
