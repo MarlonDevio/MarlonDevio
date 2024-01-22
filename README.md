@@ -31,7 +31,7 @@ ActionScript 3                  6 hrs 21 mins   ░░░░░░░░░░�
 
 🔭 I’m currently working on developing several applications in the fitness industry, leveraging my deep expertise in JavaScript, including React, as well as HTML5, CSS, Sass, Tailwind, and Python.
 
-🌱 I’m currently learning more about Java and React. I am also focused on enhancing my skills in web application development, aiming to create efficient and user-friendly solutions.
+🌱 I’m currently learning more about Java and C#. I am also focused on enhancing my skills in web application development, aiming to create efficient and user-friendly solutions.
 
 👯 I’m looking to collaborate on a wide range of innovative projects in web and app development, with a particular interest in applications involving machine learning and other cutting-edge technologies. My goal is to contribute to projects that make significant advancements in various fields!
 
