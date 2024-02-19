@@ -29,7 +29,7 @@ C#                              10 hrs 32 mins  ▒░░░░░░░░░�
 
 
 
-🔭 I’m currently working on developing several applications in the fitness industry, leveraging my deep expertise in JavaScript, including React, as well as HTML5, CSS, Sass, Tailwind, and Python.
+🔭 I’m currently working on developing a dating app, leveraging my deep expertise in JavaScript, including React, for the frontend and nodejs for the backend! Next to that I'm also dedicated to getting better at Java and C#!
 
 🌱 I’m currently learning more about Java and C#. I am also focused on enhancing my skills in web application development, aiming to create efficient and user-friendly solutions.
 
