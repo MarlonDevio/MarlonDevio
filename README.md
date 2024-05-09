@@ -9,18 +9,18 @@ Degrees:
 <!--START_SECTION:waka-->
 
 ```java
-From: 02 June 2023 - To: 06 May 2024
+From: 02 June 2023 - To: 07 May 2024
 
-Total Time: 1,544 hrs 25 mins
+Total Time: 1,546 hrs 9 mins
 
-JavaScript                      375 hrs 12 mins ██████░░░░░░░░░░░░░░░░░░░   24.18 %
-Java                            334 hrs 29 mins █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
-TypeScript                      176 hrs 7 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Python                          153 hrs 23 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+JavaScript                      375 hrs 13 mins ██████░░░░░░░░░░░░░░░░░░░   24.16 %
+Java                            334 hrs 29 mins █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+TypeScript                      176 hrs 7 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Python                          153 hrs 23 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
 CSS                             104 hrs 18 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-SCSS                            85 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+SCSS                            85 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
 HTML                            70 hrs 9 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Markdown                        52 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Markdown                        52 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 Jupyter                         44 hrs 33 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 C#                              31 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
