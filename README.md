@@ -1,6 +1,8 @@
 
 ### Hi there 👋, I'm Marlon!
 
+Platform Engineer @Canon Inc.
+
 Degrees: 
 - Professional Bachelor's Degree in Business Management, Finance and Insurance @ PXL University of Applied Sciences and Arts
 - Current study: Applied Computer Science, Application Development @ PXL University of Applied Sciences and Arts
