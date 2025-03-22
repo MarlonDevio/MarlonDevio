@@ -29,3 +29,5 @@ HTML                            102 hrs 56 mins █░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 **My full stats** are visible through this url: https://wakatime.com/@Amauri22
+
+<figure><embed src="https://wakatime.com/share/@Amauri22/7b3e4e6b-dde9-4a88-89b6-a8cdc1b06e82.svg"></embed></figure>
