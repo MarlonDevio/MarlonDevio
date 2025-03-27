@@ -7,6 +7,8 @@ Degrees:
 - Professional Bachelor's Degree in Business Management, Finance and Insurance @ PXL University of Applied Sciences and Arts
 - Current study: Applied Computer Science, Application Development @ PXL University of Applied Sciences and Arts
 
+**Neovim Enthusiast**
+
 ### Programming stats since june 2023.
 <!--START_SECTION:waka-->
 
