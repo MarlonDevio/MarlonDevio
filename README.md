@@ -13,20 +13,20 @@ Degrees:
 <!--START_SECTION:waka-->
 
 ```java
-From: 02 June 2023 - To: 16 June 2025
+From: 02 June 2023 - To: 17 June 2025
 
-Total Time: 3,102 hrs 8 mins
+Total Time: 3,103 hrs 35 mins
 
 JavaScript                      612 hrs 21 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
 Java                            351 hrs 56 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-Markdown                        313 hrs 54 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Python                          267 hrs 28 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+Markdown                        314 hrs 38 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Python                          268 hrs 3 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
 TypeScript                      257 hrs 54 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
 PHP                             156 hrs 4 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 CSS                             154 hrs 50 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
 C#                              150 hrs 24 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 HTML                            113 hrs 8 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Liquid                          102 hrs 58 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Liquid                          102 hrs 58 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->
