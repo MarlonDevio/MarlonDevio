@@ -13,7 +13,7 @@ Degrees:
 <!--START_SECTION:waka-->
 
 ```java
-From: 02 June 2023 - To: 16 August 2025
+From: 02 June 2023 - To: 17 August 2025
 
 Total Time: 3,205 hrs 14 mins
 
