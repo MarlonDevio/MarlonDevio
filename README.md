@@ -13,15 +13,15 @@ Degrees:
 <!--START_SECTION:waka-->
 
 ```java
-From: 02 June 2023 - To: 30 December 2025
+From: 02 June 2023 - To: 31 December 2025
 
-Total Time: 3,442 hrs 58 mins
+Total Time: 3,443 hrs 58 mins
 
-JavaScript                         623 hrs 22 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
-Markdown                           469 hrs 30 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
+JavaScript                         623 hrs 22 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
+Markdown                           470 hrs 30 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
 Java                               351 hrs 56 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
 Python                             333 hrs 21 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-TypeScript                         258 hrs 18 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+TypeScript                         258 hrs 18 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
 C#                                 172 hrs 57 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 PHP                                156 hrs 4 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
 CSS                                154 hrs 50 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
