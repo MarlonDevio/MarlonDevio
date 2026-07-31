@@ -13,17 +13,17 @@ Degrees:
 <!--START_SECTION:waka-->
 
 ```java
-From: 02 June 2023 - To: 28 July 2026
+From: 02 June 2023 - To: 29 July 2026
 
-Total Time: 3,617 hrs 46 mins
+Total Time: 3,618 hrs 9 mins
 
-JavaScript                         629 hrs 32 mins       ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+JavaScript                         629 hrs 39 mins       ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
 Markdown                           529 hrs 12 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
 Java                               351 hrs 56 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-Python                             337 hrs 2 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Python                             337 hrs 2 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
 TypeScript                         259 hrs 18 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-C#                                 194 hrs 41 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-PHP                                156 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+C#                                 194 hrs 43 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+PHP                                156 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 CSS                                154 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 HTML                               115 hrs 10 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 Lua                                111 hrs 1 min         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
