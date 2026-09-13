@@ -13,7 +13,7 @@ Degrees:
 <!--START_SECTION:waka-->
 
 ```java
-From: 02 June 2023 - To: 10 September 2026
+From: 02 June 2023 - To: 11 September 2026
 
 Total Time: 3,632 hrs 37 mins
 
@@ -25,7 +25,7 @@ TypeScript                         259 hrs 18 mins       █▓░░░░░�
 C#                                 197 hrs 31 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 PHP                                156 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 CSS                                154 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-HTML                               115 hrs 10 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+HTML                               115 hrs 10 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 Lua                                111 hrs 1 min         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
